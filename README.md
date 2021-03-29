@@ -5,7 +5,7 @@ ________________________________________________________________________________
 Criação de um dashboard com informações resumidas dos andamentos dos projetos.
 ___________________________________________________________________________________________________________________________________________________________________________________
 # Objetivo 🎯:
-Criar um software que unifique os dados de fontes diferentes, e com isso, um dashboard para a análise desse dados.
+Criar um software que unifique os dados de fontes diferentes, e com isso, um dashboard para a análise desses dados.
 ___________________________________________________________________________________________________________________________________________________________________________________
 ## Equipe
 
